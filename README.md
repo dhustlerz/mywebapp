@@ -1,1 +1,1 @@
-![](change-code-2.gif)
+![](./change-code-2.gif)
